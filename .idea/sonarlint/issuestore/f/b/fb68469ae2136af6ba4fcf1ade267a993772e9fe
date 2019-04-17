@@ -1,0 +1,16 @@
+
+Jsquid:S1068"3Remove this unused "outer_unique_id" private field.(Ğ¯İ–
+osquid:S00116"RRename this field "city_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¥©áøÿÿÿÿ
+psquid:S00116"SRename this field "biz_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ·®¶şÿÿÿÿ
+rsquid:S00116"ZRename this field "outer_unique_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¯İ–
+Bsquid:S1068"+Remove this unused "phone_a" private field.(Šíšó
+Lsquid:S1068"5Remove this unused "biz_scenario_type" private field.(÷Éúù
+Gsquid:S1068"+Remove this unused "phone_b" private field.(¶É¢ÿÿÿÿÿ
+jsquid:S00116"RRename this field "phone_a" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šíšó
+osquid:S00116"RRename this field "phone_b" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶É¢ÿÿÿÿÿ
+tsquid:S00116"\Rename this field "biz_scenario_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Éúù
+Csquid:S1068",Remove this unused "duration" private field.(ÛÄöÎ
+Gsquid:S1068"+Remove this unused "city_id" private field.(à¥©áøÿÿÿÿ
+Gsquid:S1068"+Remove this unused "user_id" private field.(¿€¥·úÿÿÿÿ
+osquid:S00116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿€¥·úÿÿÿÿ
+Hsquid:S1068",Remove this unused "biz_type" private field.(õ·®¶şÿÿÿÿ
