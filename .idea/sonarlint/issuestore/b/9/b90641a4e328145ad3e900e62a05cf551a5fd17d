@@ -1,0 +1,182 @@
+
+Ysquid:UnusedPrivateMethod‡"3Remove this unused private "gatherEqualKey" method.(¼‹ÀÊ
+Xsquid:UnusedPrivateMethod™"2Remove this unused private "gatherLessKey" method.(²‡€Ú
+`squid:UnusedPrivateMethod¦"5Remove this unused private "gatherGreaterKey" method.(ª™ÅÌıÿÿÿÿ
+<squid:S1659"$Declare "parent" on a separate line.(“’Ìê
+=squid:S1659"%Declare "sibling" on a separate line.(“’Ìê
+<squid:S1659„"Declare "m" on a separate line.(”ã›ıÿÿÿÿ
+<squid:S1659„"Declare "k" on a separate line.(”ã›ıÿÿÿÿ
+<squid:S1659æ"%Declare "new_key" on a separate line.(«Ã®{
+<squid:S1659¿"$Declare "lchild" on a separate line.(ë³‰°
+<squid:S1659¿"$Declare "rchild" on a separate line.(ë³‰°
+7squid:S1659ô"Declare "j" on a separate line.(Œàà¶
+7squid:S1659ô"Declare "m" on a separate line.(Œàà¶
+Osquid:S1197¦"8Move the array designator from the variable to the type.(’‡Òp
+msquid:S1192¬"PDefine a constant instead of duplicating this literal "NodeTotalCount:" 3 times.(ï†µúÿÿÿÿ
+lsquid:S1192­"ODefine a constant instead of duplicating this literal "LeafNodeCount:" 3 times.(™“üüÿÿÿÿ
+asquid:S1192Ã"IDefine a constant instead of duplicating this literal "address=" 6 times.(‡â’Å
+`squid:S1192«"HDefine a constant instead of duplicating this literal "Height:" 3 times.(Èçõ…
+bsquid:S1192®"JDefine a constant instead of duplicating this literal "KeyCount:" 3 times.(Ëøé°
+xsquid:S3923á"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Û«ğâüÿÿÿÿ
+psquid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾§È
+vsquid:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(çıáúÿÿÿÿ
+vsquid:S2293¿"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß‚îûÿÿÿÿ
+vsquid:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(çıáúÿÿÿÿ
+vsquid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(ß‚îûÿÿÿÿ
+bsquid:S1301k"KReplace this "switch" statement by "if" statements to increase readability.(éº”‘
+fsquid:S2095Ğ"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(•š÷
+msquid:S2095²"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÕÕØ¼ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙôÛ£
+bsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(ãï¶ğ
+gsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ŒœŒºıÿÿÿÿ
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.(«£›¯
+gsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ïø¾ìûÿÿÿÿ
+gsquid:CommentedOutCodeLineq"<This block of commented-out lines of code should be removed.(ïø¾ìûÿÿÿÿ
+gsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(ØÉß£ıÿÿÿÿ
+gsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(ïø¾ìûÿÿÿÿ
+asquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ãß‘!
+gsquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(ØÉß£ıÿÿÿÿ
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(¥Öß
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+bsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(ğ¶íF
+hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+hsquid:CommentedOutCodeLineã"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+hsquid:CommentedOutCodeLineæ"<This block of commented-out lines of code should be removed.(è„æÒøÿÿÿÿ
+csquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(Õúœ
+hsquid:CommentedOutCodeLineÿ"<This block of commented-out lines of code should be removed.(¹ñ„Ÿùÿÿÿÿ
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(†É‡ø
+hsquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(•ÊÁÿÿÿÿÿ
+csquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(Áİáº
+csquid:CommentedOutCodeLine–"<This block of commented-out lines of code should be removed.(„ƒèŸ
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ñ×¯
+hsquid:CommentedOutCodeLine­"<This block of commented-out lines of code should be removed.(ºã¢şÿÿÿÿ
+csquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ÎÔ²
+hsquid:CommentedOutCodeLineÂ"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+hsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(•ñÆÿÿÿÿÿ
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(¸¾íİùÿÿÿÿ
+csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(ö‡·”
+csquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¢£ê
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(ØöË©üÿÿÿÿ
+hsquid:CommentedOutCodeLineï"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+csquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(„©ûı
+hsquid:CommentedOutCodeLineø"<This block of commented-out lines of code should be removed.(‡øñÅıÿÿÿÿ
+csquid:CommentedOutCodeLineş"<This block of commented-out lines of code should be removed.(õ»ÎÇ
+csquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(ÊåÇ€
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’ë‚„üÿÿÿÿ
+hsquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(üÛ‡Äúÿÿÿÿ
+hsquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(ŒœŒºıÿÿÿÿ
+csquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(Ö±•Õ
+csquid:CommentedOutCodeLine®"<This block of commented-out lines of code should be removed.(Ö±•Õ
+hsquid:CommentedOutCodeLineâ"<This block of commented-out lines of code should be removed.(ñ­¹ÿÿÿÿÿ
+csquid:CommentedOutCodeLineä"<This block of commented-out lines of code should be removed.(£æ®ş
+hsquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+hsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+hsquid:CommentedOutCodeLineñ"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+hsquid:CommentedOutCodeLineô"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Ò’üÿÿÿÿ
+hsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(±Ä¤Îşÿÿÿÿ
+csquid:CommentedOutCodeLine´"<This block of commented-out lines of code should be removed.(§Šƒ
+hsquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(ı£¦ÿÿÿÿÿ
+csquid:CommentedOutCodeLineÈ"<This block of commented-out lines of code should be removed.(­¿ĞÍ
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(™²¾„ûÿÿÿÿ
+hsquid:CommentedOutCodeLineò"<This block of commented-out lines of code should be removed.(ÜÃÇ«şÿÿÿÿ
+csquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(ï­şÒ
+U
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(—à©şøÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë‹Ê×şÿÿÿÿ
+U
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(µññøÿÿÿÿ
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(à‚êÆøÿÿÿÿ
+U
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(Ê¤ÍÎùÿÿÿÿ
+U
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(šü€Çüÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(šü€Çüÿÿÿÿ
+P
+squid:S106’"9Replace this use of System.out or System.err by a logger.(·æóÉ
+P
+squid:S106«"9Replace this use of System.out or System.err by a logger.(Èçõ…
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ï†µúÿÿÿÿ
+U
+squid:S106­"9Replace this use of System.out or System.err by a logger.(™“üüÿÿÿÿ
+P
+squid:S106®"9Replace this use of System.out or System.err by a logger.(Ëøé°
+P
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(Èçõ…
+U
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ï†µúÿÿÿÿ
+U
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(™“üüÿÿÿÿ
+P
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(Ëøé°
+O
+squid:S106½"9Replace this use of System.out or System.err by a logger.(¥ÖC
+P
+squid:S106À"9Replace this use of System.out or System.err by a logger.(µì›Œ
+P
+squid:S106Ã"9Replace this use of System.out or System.err by a logger.(‡â’Å
+P
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(‡â’Å
+P
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(‡â’Å
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(¥¥²ùÿÿÿÿÿ
+U
+squid:S106Ù"9Replace this use of System.out or System.err by a logger.(¥¥²ùÿÿÿÿÿ
+U
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(¥¥²ùÿÿÿÿÿ
+O
+squid:S106ß"9Replace this use of System.out or System.err by a logger.(¥ÖC
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(‡â’Å
+P
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(‡â’Å
+P
+squid:S106è"9Replace this use of System.out or System.err by a logger.(‡â’Å
+P
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(Èçõ…
+U
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ï†µúÿÿÿÿ
+U
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(™“üüÿÿÿÿ
+P
+squid:S106í"9Replace this use of System.out or System.err by a logger.(Ëøé°
+@squid:S1125E")Remove the literal "false" boolean value.(‰×†ç
+@squid:S1125f")Remove the literal "false" boolean value.(‰×†ç
+Asquid:S1125Ï")Remove the literal "false" boolean value.(öÿî½
+Asquid:S1125Ø")Remove the literal "false" boolean value.(â©–Ê
+Asquid:S1125ú")Remove the literal "false" boolean value.(‰×†ç
+Msquid:S1133İ"5Do not forget to remove this deprecated code someday.(ğÛıÿ
+Rsquid:S1133æ"5Do not forget to remove this deprecated code someday.(ÊÓ¿±ûÿÿÿÿ
+Qsquid:MissingDeprecatedCheckİ"(Add the missing @deprecated Javadoc tag.(ğÛıÿ
+Vsquid:MissingDeprecatedCheckæ"(Add the missing @deprecated Javadoc tag.(ÊÓ¿±ûÿÿÿÿ
+[squid:CallToDeprecatedMethodï"2Remove this use of "print_tree"; it is deprecated.(«÷®¤
+h squid:LabelsShouldNotBeUsedCheckŒ";Refactor the code to remove this label and the need for it.(ªŒÀƒ
+lsquid:S00100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ô¥şÿÿÿÿ
+lsquid:S00100æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÓ¿±ûÿÿÿÿ
+gsquid:S00100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íê Ú
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓù¹
+@squid:S1172™"(Remove this unused method parameter "i".(²‡€Ú
+`squid:S2259¡"CA "NullPointerException" could be thrown; "tmpLt" is nullable here.(áÍßĞúÿÿÿÿ
+Bsquid:S1168_"+Return an empty collection instead of null.(¥¹ï
+Csquid:S1168„"+Return an empty collection instead of null.(¥¹ï
+isquid:S00117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ã®{
+jsquid:S00117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ø˜ò
+osquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïºÿÿÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ë‚„üÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰£××ûÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛİ‚
+@squid:S1148¶"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+msquid:S1149¾"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çıáúÿÿÿÿ
+msquid:S1149¿"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ß‚îûÿÿÿÿ
+msquid:S1149ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ïáÎìÿÿÿÿÿ
+msquid:S1149ş"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ïáÎìÿÿÿÿÿ
+msquid:S1149è"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çıáúÿÿÿÿ
+msquid:S1149é"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ß‚îûÿÿÿÿ
+msquid:S1149½"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—ãò‰ûÿÿÿÿ
+msquid:S1149½"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(—ãò‰ûÿÿÿÿ

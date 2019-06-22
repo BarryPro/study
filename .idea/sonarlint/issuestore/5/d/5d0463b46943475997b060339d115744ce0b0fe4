@@ -1,0 +1,13 @@
+
+2squid:S3626R"Remove this redundant jump.(ûÁİ…
+nsquid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÒÜŞúÿÿÿÿ
+tsquid:S00116"]Rename this field "left_childDataNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÛŠ;
+isquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï½±
+isquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë˜áâ
+nsquid:S001171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì´—ìüÿÿÿÿ
+T
+squid:S106}"9Replace this use of System.out or System.err by a logger.(ç‘›·şÿÿÿÿ
+ksquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹«ùÿÿÿÿ
+vsquid:S00116"^Rename this field "right_childDataNode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ•œò
+Usquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+nsquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ù¶Øÿÿÿÿÿ

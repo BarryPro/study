@@ -1,22 +1,0 @@
-
-nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ó±Îøÿÿÿÿ
-U
-squid:S106”"9Replace this use of System.out or System.err by a logger.(ÎÞ†Óÿÿÿÿÿ
-hsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìºÐj
-hsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛ½
-isquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ”ÅÊ
-P
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ñÜü“
-nsquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“±òýÿÿÿÿ
-isquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃý
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÅÀY
-—squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°‚æs
-P
-squid:S106—"9Replace this use of System.out or System.err by a logger.(óÙ¨
-hsquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û†u
-nsquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¥†ðúÿÿÿÿ
-nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šò¯³ÿÿÿÿÿ
-osquid:S1488B"YImmediately return this expression instead of assigning it to the temporary variable "A".(™Û†u
-nsquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©ËËüÿÿÿÿ
-nsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£·ýÒøÿÿÿÿ

@@ -1,25 +1,0 @@
-
-<squid:S3457|"%String contains no format specifiers.(ï«¨°
-hsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(à¶ýãüÿÿÿÿ
-asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨µÖW
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©ýØúÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰ÅšÀ
-<squid:S3457w"%String contains no format specifiers.(Î÷Œ
-hsquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(ˆ£³’ÿÿÿÿÿ
-csquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(Œï¡
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þæÍâ
-O
-squid:S106|"9Replace this use of System.out or System.err by a logger.(ï«¨°
-gsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(îáÀÏùÿÿÿÿ
-gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(¤†Ûúÿÿÿÿ
-gsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ÍãµÀøÿÿÿÿ
-O
-squid:S106z"9Replace this use of System.out or System.err by a logger.(¸²Ý
-O
-squid:S106w"9Replace this use of System.out or System.err by a logger.(Î÷Œ
-bsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(ëÂ‚•
-hsquid:S3457|"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(Ç˜ÁÔ
-asquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(øŸÝ
-gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(½È¹øÿÿÿÿ
-hsquid:S3457w"Q%n should be used in place of \n to produce the platform-specific line separator.(Î÷Œ

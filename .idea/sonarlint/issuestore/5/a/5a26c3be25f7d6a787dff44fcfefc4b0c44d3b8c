@@ -1,4 +1,0 @@
-
-gsquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óñ·°
-ƒ"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ
-„"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ

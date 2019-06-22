@@ -1,0 +1,6 @@
+
+gsquid:S12068"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+Tsquid:S2589Ÿ"7Remove this expression which always evaluates to "true"(×…İÌüÿÿÿÿ
+Xsquid:S2259<"AA "NullPointerException" could be thrown; "obj" is nullable here.(Üé†
+Asquid:S00108¡")Either remove or fill this block of code.(­ÿªY
+™squid:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öœÙ’

@@ -1,0 +1,19 @@
+
+isquid:S2975B"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÉ¹é
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñäÑ–
+isquid:S2975f"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñäÑ–
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÉ¹é
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝæØÍ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨æ˜ÿ
+jsquid:S00116c"MRename this field "Gj" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÿìÐùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝæØÍ

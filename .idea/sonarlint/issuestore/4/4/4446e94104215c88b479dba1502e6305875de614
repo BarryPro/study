@@ -1,0 +1,26 @@
+
+Esquid:S1125{")Remove the literal "false" boolean value.(áµÉ¼ıÿÿÿÿ
+Asquid:S1125Ÿ")Remove the literal "false" boolean value.(ª—¶é
+T
+squid:S106z"9Replace this use of System.out or System.err by a logger.(Ã´š˜ÿÿÿÿÿ
+T
+squid:S106s"9Replace this use of System.out or System.err by a logger.(Ä™ââøÿÿÿÿ
+O
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Û€øÍ
+wsquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡õĞ8ëı©ú¢-
+U
+squid:S106™"9Replace this use of System.out or System.err by a logger.(±À†èûÿÿÿÿ
+hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(¨ìØ«ıÿÿÿÿ
+}squid:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8ëı©ú¢-
+O
+squid:S106†"9Replace this use of System.out or System.err by a logger.(°•Ş
+lsquid:S1149w"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ºÏ†îşÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¹½
+wsquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡õĞ8ëı©ú¢-
+|squid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºÏ†îşÿÿÿÿ8ëı©ú¢-
+}squid:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÃ­ıÿÿÿÿ8ëı©ú¢-
+P
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Û€øÍ
+O
+squid:S106©"9Replace this use of System.out or System.err by a logger.(°•Ş

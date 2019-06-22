@@ -1,0 +1,10 @@
+
+Msquid:UnusedPrivateMethod"(Remove this unused private "fun" method.(Ö‘÷½
+2squid:S3626"Remove this redundant jump.(ûÁÝ…
+bsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(˜µÑ„
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëÿÓá
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+=squid:S1481"&Remove this unused "a" local variable.(€Žôá
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

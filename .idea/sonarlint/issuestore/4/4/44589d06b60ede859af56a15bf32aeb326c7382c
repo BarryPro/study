@@ -1,0 +1,28 @@
+
+Qsquid:S2864Û"4Iterate over the "entrySet" instead of the "keySet".(¹Îôæÿÿÿÿÿ
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­……ûÿÿÿÿ8€ş©ú¢-
+P
+squid:S106à"9Replace this use of System.out or System.err by a logger.(÷Ôã
+}squid:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÊ¢¨şÿÿÿÿ8€ş©ú¢-
+P
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(¦Õ·Ó
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+xsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ñ°Ñ8€ş©ú¢-
+U
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(üÙóàıÿÿÿÿ
+P
+squid:S106ó"9Replace this use of System.out or System.err by a logger.(ù½Íø
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ÇÆ
+
+zsquid:S1488«"]Immediately return this expression instead of assigning it to the temporary variable "start".(îğ“×ıÿÿÿÿ
+}squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚñÏŒøÿÿÿÿ8€ş©ú¢-
+U
+squid:S106Ş"9Replace this use of System.out or System.err by a logger.(äî›ûÿÿÿÿ
+zsquid:S1488Í"]Immediately return this expression instead of assigning it to the temporary variable "start".(™Ğ˜†úÿÿÿÿ
+esquid:HiddenFieldCheckò"=Rename "pathInfo" which hides the field declared at line 146.(‡ôùêÿÿÿÿÿ
+Qsquid:S2864ı"4Iterate over the "entrySet" instead of the "keySet".(¹Îôæÿÿÿÿÿ
+U
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(¢·Òúıÿÿÿÿ
+}squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¸”Ûıÿÿÿÿ8€ş©ú¢-

@@ -1,0 +1,6 @@
+
+Ysquid:S2094"BRemove this empty class, write its code or make it an "interface".(£Φ›Ξ
+9squid:S1214	""Move constants to a class or enum.(«¤ƒ¥
+?squid:S1068"(Remove this unused "name" private field.(Λ¥Ό
+rsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(€τα

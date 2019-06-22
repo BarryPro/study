@@ -1,21 +1,0 @@
-
-T
-squid:S106z"9Replace this use of System.out or System.err by a logger.(Ã´š˜ÿÿÿÿÿ
-O
-squid:S106†"9Replace this use of System.out or System.err by a logger.(°•Þ
-hsquid:CommentedOutCodeLineº"<This block of commented-out lines of code should be removed.(¨ìØ«ýÿÿÿÿ
-Esquid:S1125{")Remove the literal "false" boolean value.(áµÉ¼ýÿÿÿÿ
-O
-squid:S106©"9Replace this use of System.out or System.err by a logger.(°•Þ
-U
-squid:S106™"9Replace this use of System.out or System.err by a logger.(±À†èûÿÿÿÿ
-Asquid:S1125Ÿ")Remove the literal "false" boolean value.(ª—¶é
-lsquid:S1149w"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ºÏ†îþÿÿÿÿ
-P
-squid:S106ž"9Replace this use of System.out or System.err by a logger.(©¹½
-O
-squid:S106}"9Replace this use of System.out or System.err by a logger.(Û€øÍ
-T
-squid:S106s"9Replace this use of System.out or System.err by a logger.(Ä™ââøÿÿÿÿ
-P
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(Û€øÍ

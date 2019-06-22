@@ -1,0 +1,7 @@
+
+ojavascript:S2814ä"MRename "nextElmLeft" as this name is already used in declaration at line 226.(éû‹–øÿÿÿÿ
+>javascript:S1116±"Remove this empty statement.(ôŸìúÿÿÿÿ
+bjavascript:UnusedVariableâ"<Remove the declaration of the unused 'nextElmLeft' variable.(âôš
+gjavascript:UnusedVariableä"<Remove the declaration of the unused 'nextElmLeft' variable.(éû‹–øÿÿÿÿ
+^javascript:S1854ò"ARemove this useless assignment to local variable "curElementLeft"(ëî
+javascript:S2703è"bAdd the "let", "const" or "var" keyword to this declaration of "nextElmLeft2" to make it explicit.(Êˆìƒ

@@ -16,6 +16,7 @@
         <module>study_entities</module>
         <module>study_dal</module>
         <module>study_ui</module>
+        <module>study_source</module>
     </modules>
 
     <properties>

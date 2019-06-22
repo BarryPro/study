@@ -1,0 +1,8 @@
+
+Cjavascript:S878Ù""Remove use of this comma operator.(ëíˆ£ıÿÿÿÿ
+_javascript:UnusedVariables":Remove the declaration of the unused 'switchery' variable.(ğÈÊ
+Xjavascript:S1854s"<Remove this useless assignment to local variable "switchery"(ğÈÊ
+Vjavascript:S1854™"4Remove this useless assignment to local variable "_"(Æ‰»ßùÿÿÿÿ
+†javascript:S2703"eAdd the "let", "const" or "var" keyword to this declaration of "$SIDEBAR_FOOTER" to make it explicit.(Ä¶çûÿÿÿÿ
+€javascript:S2703"_Add the "let", "const" or "var" keyword to this declaration of "$LEFT_COL" to make it explicit.(÷¤•Ìûÿÿÿÿ
+zjavascript:S2703°"]Add the "let", "const" or "var" keyword to this declaration of "$expand" to make it explicit.(á…Ùü
