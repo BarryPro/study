@@ -6,375 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aaf9f4b1-40cc-439d-80ad-e432e6403545" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_source/javascript/closure.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_source/javascript/for_closure.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/java/com/barry/study_ui/contorller/PrivacyBillCheckController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/resources/webmvc-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/conf/freemarker.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/auth/auth.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/common/allscripts.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/common/footer.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/common/headcsslinks.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/common/navbar.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/common/sidebar.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/cs/analyser.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/cs/index.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/cs/logics.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/cs/question-form.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/handlebars/method.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/config.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/dialog/falconscreendialog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/dialog/ifacestatdialog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/dialog/octoexpdialog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/dialog/slowquerydialog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/mailconfig/falcongraphcfg.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/mailconfig/slowsqlcfg.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/healthcheck/team.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/home/envichoose.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/home/home.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/monitor/ordermonitor.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/monitor/vpmonitor.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/openutils/baodan.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/optrace/tracelog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/poi/hotFoodSummary.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/poi/hotFoodSummaryResult.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/orderdiminfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/orderinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/orderoverdis.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/ordertrace/treeview.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/privacybindquery.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/privacycallbillencoding.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/privacyopencityinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/tairorderinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/testpoi.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/tracelog.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/query/vporderinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/applyrefundcount.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/asyncrepair.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/autoclosepoiwhitelist.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/cancelorder.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/caseprocess.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/commercialagent.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/datarepair.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/logisticsinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/monitorkpidata.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/paynotify.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/poiorderstats.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/poitag.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/pushorder.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/repairvpinfo.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/testbnewuser.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/repair/vppayrepair.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/servicecheck/orderquerycheck.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/stats/caststats.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/stats/vpcasestats.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/billcheckmail.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/chivalrycardutil.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/dailyact.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/deletedata.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/hello.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/privacyutils.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/privatenumberKv.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/testarchiving.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/testbseq.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/testdelete.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/thrifttest.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/tyfx.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/vp2es.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/vpbillcheck.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/vputils.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/views/tools/wmApOrderHelper.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/animate.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/bootstrap-datetimepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/calendar/fullcalendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/calendar/fullcalendar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/calendar/fullcalendar.print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/bootstrap-colorpicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/img/bootstrap-colorpicker/alpha-horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/img/bootstrap-colorpicker/alpha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/img/bootstrap-colorpicker/hue-horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/img/bootstrap-colorpicker/hue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/colorpicker/img/bootstrap-colorpicker/saturation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/css/demo_page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/css/demo_table.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/css/demo_table_jui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/css/jquery.dataTables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/css/jquery.dataTables_themeroller.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/Sorting icons.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/back_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/back_enabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/back_enabled_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/forward_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/forward_enabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/forward_enabled_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/sort_asc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/sort_asc_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/sort_both.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/sort_desc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/images/sort_desc_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/datatables/tools/css/dataTables.tableTools.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/editor/external/google-code-prettify/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/editor/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/floatexamples.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/_all.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/aero.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/aero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/aero@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/blue.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/blue@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/flat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/flat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/flat@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/green.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/green@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/grey.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/grey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/grey@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/orange.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/orange@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/pink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/pink@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/purple.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/purple@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/red.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/red@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/yellow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/yellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/icheck/flat/yellow@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/ion.rangeSlider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/ion.rangeSlider.skinFlat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/maps/jquery-jvectormap-2.0.3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/nprogress.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/progressbar/bootstrap-progressbar-3.3.0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/select/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/css/switchery/switchery.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/spinning.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_spinning.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/fonts/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/Collapsed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/Expanded.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/american-express.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/back_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/back_enabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/back_enabled_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/bootstrap-colorpicker/alpha-horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/bootstrap-colorpicker/alpha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/bootstrap-colorpicker/hue-horizontal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/bootstrap-colorpicker/hue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/bootstrap-colorpicker/saturation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/data.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/forward_disabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/forward_enabled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/forward_enabled_hover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/imgMT.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/mastercard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/paypal2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/picture-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/picture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/picture2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/prod1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/prod2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/prod3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/prod4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/prod5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/sprite-skin-flat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/sprite-skin-modern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/sprite-skin-nice.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/sprite-skin-simple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/user.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/images/visa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/cs/biz-logic-solution.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/cs/order-logics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/cs/question-form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/echarts-all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/ordertrace/order-trace-tree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/vporderinfo/vp-db-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/admin/vporderinfo/vp-user-info.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/autocomplete/countries.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/autocomplete/jquery.autocomplete.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/bootstrap-datetimepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/calendar/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/chartjs/chart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/collapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/colorpicker/bootstrap-colorpicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/colorpicker/docs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/cropping/cropper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/cropping/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/cropping/main2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/buttons.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/buttons.bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/buttons.html5.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/buttons.print.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.buttons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.fixedHeader.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.keyTable.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.responsive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/dataTables.scroller.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/fixedHeader.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/jquery.dataTables.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/jquery.dataTables.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/json/scroller-demo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/pdfmake.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/responsive.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/responsive.bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/scroller.bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datatables/vfs_fonts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/datepicker/daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/dropzone/dropzone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/easypie/jquery.easypiechart.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/echart/echarts-all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/echart/green.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/bootstrap-wysiwyg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-apollo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-basic.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-clj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-dart.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-erlang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-go.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-hs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-lisp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-llvm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-lua.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-matlab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-ml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-mumps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-pascal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-proto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-rd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-scala.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-sql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-tcl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-tex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-vb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-vhdl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-wiki.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-xq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/lang-yaml.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/google-code-prettify/run_prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/editor/external/jquery.hotkeys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/curvedLines.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/date.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.orderBars.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.pie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.resize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.spline.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.stack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.time.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/flot/jquery.flot.tooltip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/gauge/gauge.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/gauge/gauge_demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/icheck/icheck.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/input_mask/jquery.inputmask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/ion_range/ion.rangeSlider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/knob/jquery.knob.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/maps/gdp-data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/maps/jquery-jvectormap-2.0.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/maps/jquery-jvectormap-us-aea-en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/maps/jquery-jvectormap-world-mill-en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/maps/us-unemployment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/moment-with-locales.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/moment/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/moris/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/moris/morris.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/moris/raphael-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/notify/pnotify.buttons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/notify/pnotify.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/notify/pnotify.nonblock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/nprogress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/pace/pace.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/parsley/parsley.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/progressbar/bootstrap-progressbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/select/select2.full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/sidebar/classie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/sidebar/component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/sidebar/modernizr.custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/sidebar/sidebarEffects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/skycons/skycons.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/sparkline/jquery.sparkline.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/switchery/switchery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/tags/jquery.tagsinput.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/textarea/autosize.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/transition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/validator/validator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/js/wizard/jquery.smartWizard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/src/main/webapp/static/less/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/classes/com/barry/study_ui/contorller/PrivacyBillCheckController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/classes/log4j2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/classes/webmvc-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_ui/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -397,18 +28,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study_ui/javascript/closure.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/study_ui/javascript/for_closure.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -457,6 +77,7 @@
         <option value="$PROJECT_DIR$/study_demo/src/main/java/com/barry/study/annotate/PasswordUtils.java" />
         <option value="$PROJECT_DIR$/study_demo/src/test/java/com/barry/study/UserCaseTest.java" />
         <option value="$PROJECT_DIR$/study_source/javascript/for_closure.js" />
+        <option value="$PROJECT_DIR$/study_ui/javascript/for_closure.js" />
       </list>
     </option>
   </component>
@@ -497,13 +118,14 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="51" />
     <option name="y" value="27" />
     <option name="width" value="1287" />
     <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -538,8 +160,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/study_tool/src/main/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/study_ui/my-angular/node_modules/protractor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33103448" />
@@ -640,6 +264,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E2E Tests (my-angular)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/study_ui/my-angular/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/study_ui/my-angular/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application (my-angular)" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="study_ui" />
       <option name="VM_PARAMETERS" />
@@ -687,7 +323,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="for_closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="for_closure.js" working-dir="$PROJECT_DIR$/study_source/javascript">
+    <configuration name="for_closure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="for_closure.js" working-dir="$PROJECT_DIR$/study_ui/javascript">
       <method v="2" />
     </configuration>
     <configuration name="StudyServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -697,6 +333,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.UserCaseTest" />
+      <item itemvalue="JavaScript Debug.Angular Application (my-angular)" />
+      <item itemvalue="JUnit.HelloWorld.test_BigDecimal" />
+      <item itemvalue="JUnit.HelloWorld.test_contain" />
+      <item itemvalue="Protractor.E2E Tests (my-angular)" />
+      <item itemvalue="Spring Boot.StudyServerApplication" />
+      <item itemvalue="Node.js.for_closure.js" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.for_closure.js" />
@@ -753,7 +399,7 @@
       <workItem from="1564298906724" duration="2405000" />
       <workItem from="1564301489538" duration="565000" />
       <workItem from="1564320952070" duration="650000" />
-      <workItem from="1564322905286" duration="482000" />
+      <workItem from="1564322905286" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="搭建完项目模块架构">
       <created>1557067387151</created>
@@ -776,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564301968078</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改未定义function">
+      <created>1564324878628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564324878628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -809,11 +462,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43137000" />
+    <option name="totallyTimeSpent" value="44428000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1440" height="873" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1440" height="873" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49737534" visible="true" weight="0.30503598" />
       <window_info id="Structure" order="1" sideWeight="0.5026247" side_tool="true" weight="0.37124464" />
@@ -907,7 +559,8 @@
     <MESSAGE value="搭建完项目模块架构" />
     <MESSAGE value="添加脚本语言学习" />
     <MESSAGE value="微调" />
-    <option name="LAST_COMMIT_MESSAGE" value="微调" />
+    <MESSAGE value="修改未定义function" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改未定义function" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1001,6 +654,20 @@
     <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/barry/study_ui/contorller/PrivacyBillCheckController.java" />
     <entry file="file://$PROJECT_DIR$/study_ui/src/main/resources/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/study_source/javascript/for_closure.js" />
+    <entry file="file://$PROJECT_DIR$/study_ui/javascript/for_closure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_ui/javascript/closure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
