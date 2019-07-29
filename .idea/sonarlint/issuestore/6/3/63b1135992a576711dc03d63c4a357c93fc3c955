@@ -1,25 +1,0 @@
-
-psquid:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø‡¶Ë
-vsquid:S2293³"YReplace the type specification in this constructor call with the diamond operator ("<>").(»Ì¯óıÿÿÿÿ
-qsquid:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(†˜ê‹
-vsquid:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(·›¾àÿÿÿÿÿ
-psquid:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡õ©)
-psquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ûİ,
-qsquid:S2293¸"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦æéê
-qsquid:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(’›©½
-~squid:S4165"bRemove this useless assignment; "left" already holds the assigned value along all execution paths.(£‡²‘ıÿÿÿÿ
-zsquid:S4165"cRemove this useless assignment; "right" already holds the assigned value along all execution paths.(Òø…
-gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ÅÄ•ˆùÿÿÿÿ
-gsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(öˆÓâÿÿÿÿÿ
-bsquid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(Ç®È£
-bsquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(¬¡¡™
-gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(¨·‹ üÿÿÿÿ
-gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
-O
-squid:S1062"9Replace this use of System.out or System.err by a logger.(“œ°Ì
-U
-squid:S106Á"9Replace this use of System.out or System.err by a logger.(¶úƒºûÿÿÿÿ
-P
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(Ú¥ëä
-tsquid:S1488º"\Immediately return this expression instead of assigning it to the temporary variable "root".(’›©½

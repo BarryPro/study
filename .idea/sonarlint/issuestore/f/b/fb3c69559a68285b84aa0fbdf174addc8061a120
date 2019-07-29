@@ -1,62 +1,0 @@
-
->squid:S1659""Declare "ilen" on a separate line.(ĞÁ«çüÿÿÿÿ
-Osquid:S1197"8Move the array designator from the variable to the type.(ã…ÊĞ
-vsquid:S1192'"ZDefine a constant instead of duplicating this literal "== æ ‘çš„è¯¦ç»†ä¿¡æ¯: \n" 3 times.(ñô†¶şÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËË´³øÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªæÍÿıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ç‡Í¸ûÿÿÿÿ
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ï«¨°
-O
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ÒÆí
-T
-squid:S106'"9Replace this use of System.out or System.err by a logger.(ñô†¶şÿÿÿÿ
-O
-squid:S106)"9Replace this use of System.out or System.err by a logger.(ï«¨°
-T
-squid:S106-"9Replace this use of System.out or System.err by a logger.(­—Û•şÿÿÿÿ
-T
-squid:S1060"9Replace this use of System.out or System.err by a logger.(ÿ„êçùÿÿÿÿ
-O
-squid:S1063"9Replace this use of System.out or System.err by a logger.(£™ö‚
-O
-squid:S1065"9Replace this use of System.out or System.err by a logger.(ï«¨°
-T
-squid:S1067"9Replace this use of System.out or System.err by a logger.(èìÜÂıÿÿÿÿ
-O
-squid:S1068"9Replace this use of System.out or System.err by a logger.(®ÚñÔ
-T
-squid:S1069"9Replace this use of System.out or System.err by a logger.(ñô†¶şÿÿÿÿ
-O
-squid:S106;"9Replace this use of System.out or System.err by a logger.(ï«¨°
-T
-squid:S106C"9Replace this use of System.out or System.err by a logger.( Æ¶”øÿÿÿÿ
-T
-squid:S106D"9Replace this use of System.out or System.err by a logger.(ñô†¶şÿÿÿÿ
-O
-squid:S106F"9Replace this use of System.out or System.err by a logger.(ï«¨°
-wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¸³­“ûÿÿÿÿ
-wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıå…Æşÿÿÿÿ
-Asquid:S3457"%String contains no format specifiers.(ªæÍÿıÿÿÿÿ
-hsquid:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457 "%String contains no format specifiers.(ï«¨°
-hsquid:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(ÒÆí
-msquid:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(ñô†¶şÿÿÿÿ
-Asquid:S3457'"%String contains no format specifiers.(ñô†¶şÿÿÿÿ
-hsquid:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457)"%String contains no format specifiers.(ï«¨°
-hsquid:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S34575"%String contains no format specifiers.(ï«¨°
-msquid:S34577"Q%n should be used in place of \n to produce the platform-specific line separator.(èìÜÂıÿÿÿÿ
-hsquid:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(®ÚñÔ
-msquid:S34579"Q%n should be used in place of \n to produce the platform-specific line separator.(ñô†¶şÿÿÿÿ
-Asquid:S34579"%String contains no format specifiers.(ñô†¶şÿÿÿÿ
-hsquid:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457;"%String contains no format specifiers.(ï«¨°
-msquid:S3457C"Q%n should be used in place of \n to produce the platform-specific line separator.( Æ¶”øÿÿÿÿ
-msquid:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(ñô†¶şÿÿÿÿ
-Asquid:S3457D"%String contains no format specifiers.(ñô†¶şÿÿÿÿ
-hsquid:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457F"%String contains no format specifiers.(ï«¨°

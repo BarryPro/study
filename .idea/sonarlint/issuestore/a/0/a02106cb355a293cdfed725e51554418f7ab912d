@@ -1,29 +1,0 @@
-
-T
-squid:S106e"9Replace this use of System.out or System.err by a logger.(İ¸æÑüÿÿÿÿ
-O
-squid:S106h"9Replace this use of System.out or System.err by a logger.(æÿÁÓ
-P
-squid:S106£"9Replace this use of System.out or System.err by a logger.(ÅÊÌî
-Asquid:S3457c"%String contains no format specifiers.(ä¼Ùùüÿÿÿÿ
-<squid:S3457k"%String contains no format specifiers.(ï«¨°
-isquid:S3457£"Q%n should be used in place of \n to produce the platform-specific line separator.(ÅÊÌî
-=squid:S3457¬"%String contains no format specifiers.(ï«¨°
-msquid:S3457c"Q%n should be used in place of \n to produce the platform-specific line separator.(ä¼Ùùüÿÿÿÿ
-T
-squid:S106c"9Replace this use of System.out or System.err by a logger.(ä¼Ùùüÿÿÿÿ
-P
-squid:S106¬"9Replace this use of System.out or System.err by a logger.(ï«¨°
-=squid:S3457¨"%String contains no format specifiers.(¥ı²Ü
-O
-squid:S106k"9Replace this use of System.out or System.err by a logger.(ï«¨°
-hsquid:S3457k"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-isquid:S3457¬"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-|squid:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éñ±ıÿÿÿÿ8ÿı©ú¢-
-O
-squid:S106ª"9Replace this use of System.out or System.err by a logger.(±Ê—9
-=squid:S3457£"%String contains no format specifiers.(ÅÊÌî
-|squid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ê®¶ùÿÿÿÿ8ÿı©ú¢-
-hsquid:CommentedOutCodeLine¾"<This block of commented-out lines of code should be removed.(˜á¤¶øÿÿÿÿ
-P
-squid:S106¨"9Replace this use of System.out or System.err by a logger.(¥ı²Ü

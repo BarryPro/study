@@ -1,27 +1,0 @@
-
-ijavascript:S2589”"LRefactor this code so that this expression does not always evaluate to true.(ú´÷Ñ
-fjavascript:S2814õ"IRename "minutes" as this name is already used in declaration at line 938.(±óŠü
-fjavascript:S2814„"DRename "i" as this name is already used in declaration at line 1460.(ÆîÌıÿÿÿÿ
-ajavascript:S2814¡"DRename "i" as this name is already used in declaration at line 1460.(Ş¢Š
-jjavascript:S2814"MRename "oldViewMode" as this name is already used in declaration at line 993.(äµğ
-`javascript:S2814µ"CRename "i" as this name is already used in declaration at line 659.(³ùšı
-_javascript:S2814ó"CRename "i" as this name is already used in declaration at line 659.(ÿìêk
-djavascript:S2814ö"GRename "date" as this name is already used in declaration at line 1577.(¢µãí
-djavascript:S2814ş"GRename "part" as this name is already used in declaration at line 1458.(çŒ¸ş
-jjavascript:S2814·"HRename "actual" as this name is already used in declaration at line 661.(ö¯üúÿÿÿÿ
-ijavascript:S2814É"GRename "date" as this name is already used in declaration at line 1440.(¼İØ•úÿÿÿÿ
-ijavascript:S2814ó"GRename "month" as this name is already used in declaration at line 935.(áÅóüøÿÿÿÿ
-ejavascript:S2814È"HRename "parts" as this name is already used in declaration at line 1457.(ı±Íä
-bjavascript:S2814ñ"ERename "day" as this name is already used in declaration at line 936.(³¯°à
-ijavascript:S2814ô"GRename "hours" as this name is already used in declaration at line 937.(¸İı´ùÿÿÿÿ
-kjavascript:S2814ö"IRename "seconds" as this name is already used in declaration at line 939.(ëÔ¦­øÿÿÿÿ
-hjavascript:S2814ò"FRename "year" as this name is already used in declaration at line 934.(ãÕš—şÿÿÿÿ
-Vjavascript:S878³"5Remove use of all comma operators in this expression.(¦ğ—“úÿÿÿÿ
-fjavascript:S3686Ò"ICorrect the use of this function; on line 51 it was called without "new".(Úæ•
-Ljavascript:UnusedVariable1""Remove unused function 'UTCToday'.(üÈ‚şüÿÿÿÿ
-_javascript:UnusedVariable‹	"4Remove the declaration of the unused 'day' variable.(»¢¥ıÿÿÿÿ
-ajavascript:UnusedVariable‹	"6Remove the declaration of the unused 'month' variable.(»¢¥ıÿÿÿÿ
-]javascript:S1854³";Remove this useless assignment to local variable "meridian"(¦ğ—“úÿÿÿÿ
-Xjavascript:S1854³"6Remove this useless assignment to local variable "txt"(¦ğ—“úÿÿÿÿ
-Sjavascript:S1854Î"6Remove this useless assignment to local variable "txt"(ˆû»ü
-{javascript:S2703–	"^Add the "let", "const" or "var" keyword to this declaration of "viewMode" to make it explicit.(°÷…»

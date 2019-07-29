@@ -1,20 +1,0 @@
-
-Usquid:S1197¶"8Move the array designator from the variable to the type.(ı³¾¿ûÿÿÿÿ
-O
-squid:S106B"9Replace this use of System.out or System.err by a logger.(êå
-O
-squid:S106E"9Replace this use of System.out or System.err by a logger.(û¥¹…
-O
-squid:S106F"9Replace this use of System.out or System.err by a logger.(ï«¨°
-T
-squid:S106o"9Replace this use of System.out or System.err by a logger.(”ßøöùÿÿÿÿ
-T
-squid:S106q"9Replace this use of System.out or System.err by a logger.(Èääùúÿÿÿÿ
-O
-squid:S106s"9Replace this use of System.out or System.err by a logger.(ï«¨°
-hsquid:S3457B"Q%n should be used in place of \n to produce the platform-specific line separator.(êå
-<squid:S3457B"%String contains no format specifiers.(êå
-hsquid:S3457F"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457F"%String contains no format specifiers.(ï«¨°
-hsquid:S3457s"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457s"%String contains no format specifiers.(ï«¨°

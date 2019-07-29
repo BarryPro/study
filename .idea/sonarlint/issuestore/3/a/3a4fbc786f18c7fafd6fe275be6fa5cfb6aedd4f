@@ -1,71 +1,0 @@
-
-<squid:S1659Ù"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-<squid:S1659õ"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-<squid:S1659•"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ
-gsquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¥™×
-lsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(—±”¥ÿÿÿÿÿ
-bsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ô¡Óº
-hsquid:CommentedOutCodeLineé"<This block of commented-out lines of code should be removed.(ÃèÒŸÿÿÿÿÿ
-P
-squid:S106®"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106°"9Replace this use of System.out or System.err by a logger.(‘ÛÌ¨ùÿÿÿÿ
-U
-squid:S106²"9Replace this use of System.out or System.err by a logger.(’ÛÇÖúÿÿÿÿ
-U
-squid:S106´"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
-P
-squid:S106Æ"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106È"9Replace this use of System.out or System.err by a logger.(ß©¾ÿ
-O
-squid:S106Ê"9Replace this use of System.out or System.err by a logger.(¤ÓÉf
-U
-squid:S106Ì"9Replace this use of System.out or System.err by a logger.(‹¾úúüÿÿÿÿ
-P
-squid:S106Ý"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106ß"9Replace this use of System.out or System.err by a logger.(·æóÉ
-P
-squid:S106å"9Replace this use of System.out or System.err by a logger.(×•œ²
-P
-squid:S106ç"9Replace this use of System.out or System.err by a logger.(ÔéèÛ
-P
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106š"9Replace this use of System.out or System.err by a logger.(–µé›ýÿÿÿÿ
-U
-squid:S106œ"9Replace this use of System.out or System.err by a logger.(šü€Çüÿÿÿÿ
-U
-squid:S106ž"9Replace this use of System.out or System.err by a logger.(©Þôüÿÿÿÿ
-P
-squid:S106¡"9Replace this use of System.out or System.err by a logger.(×•œ²
-U
-squid:S106£"9Replace this use of System.out or System.err by a logger.(–µé›ýÿÿÿÿ
-U
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(‘ÐâÍùÿÿÿÿ
-U
-squid:S106§"9Replace this use of System.out or System.err by a logger.(†Þùÿÿÿÿ
-P
-squid:S106¼"9Replace this use of System.out or System.err by a logger.(Øòìÿ
-P
-squid:S106Ô"9Replace this use of System.out or System.err by a logger.(Øòìÿ
-U
-squid:S106Ý"9Replace this use of System.out or System.err by a logger.(šü€Çüÿÿÿÿ
-U
-squid:S106ã"9Replace this use of System.out or System.err by a logger.(šü€Çüÿÿÿÿ
-P
-squid:S106å"9Replace this use of System.out or System.err by a logger.(·æóÉ
-Msquid:S1133¬"5Do not forget to remove this deprecated code someday.(Î»º
-Msquid:S1133Â"5Do not forget to remove this deprecated code someday.(Ô¥ã
-Rsquid:S1133Ø"5Do not forget to remove this deprecated code someday.(ßÈŠ©ÿÿÿÿÿ
-Qsquid:MissingDeprecatedCheck¬"(Add the missing @deprecated Javadoc tag.(Î»º
-Qsquid:MissingDeprecatedCheckÂ"(Add the missing @deprecated Javadoc tag.(Ô¥ã
-Vsquid:MissingDeprecatedCheckØ"(Add the missing @deprecated Javadoc tag.(ßÈŠ©ÿÿÿÿÿ
-Zsquid:CallToDeprecatedMethod¹",Remove this use of "show"; it is deprecated.(‡Î¬Æþÿÿÿÿ
-Zsquid:CallToDeprecatedMethodÒ",Remove this use of "show"; it is deprecated.(‡Î¬Æþÿÿÿÿ
-[squid:CallToDeprecatedMethodÖ"-Remove this use of "print"; it is deprecated.(ªÍÆšøÿÿÿÿ
-lsquid:S00100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æþå¶ýÿÿÿÿ
-@squid:S1148ƒ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-@squid:S1148¡"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-wsquid:S1149ô"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ðøî

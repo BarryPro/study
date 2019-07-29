@@ -27,9 +27,7 @@ src/main/webapp/META-INF/
 */src/main/webapp/WEB-INF/decorators/revision.properties
 target
 local_output
-*.iml
 *.swap
-target
 *.swp
 build
 _jsp

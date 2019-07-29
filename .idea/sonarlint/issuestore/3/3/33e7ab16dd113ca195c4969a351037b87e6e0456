@@ -1,24 +1,0 @@
-
-jsquid:S3008"NRename this field "INF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’È„žþÿÿÿÿ
-Csquid:S1068"'Remove this unused "INF" private field.(’È„žþÿÿÿÿ
-hsquid:CommentedOutCodeLineì"<This block of commented-out lines of code should be removed.(·¬ÍÃûÿÿÿÿ
-T
-squid:S106k"9Replace this use of System.out or System.err by a logger.(¤Ä¥åüÿÿÿÿ
-O
-squid:S106m"9Replace this use of System.out or System.err by a logger.(ïïÉ×
-T
-squid:S106p"9Replace this use of System.out or System.err by a logger.(Ù Ÿûÿÿÿÿ
-O
-squid:S106s"9Replace this use of System.out or System.err by a logger.(ï«¨°
-U
-squid:S106–"9Replace this use of System.out or System.err by a logger.(”ßøöùÿÿÿÿ
-U
-squid:S106˜"9Replace this use of System.out or System.err by a logger.(Èääùúÿÿÿÿ
-P
-squid:S106š"9Replace this use of System.out or System.err by a logger.(ï«¨°
-msquid:S3457k"Q%n should be used in place of \n to produce the platform-specific line separator.(¤Ä¥åüÿÿÿÿ
-Asquid:S3457k"%String contains no format specifiers.(¤Ä¥åüÿÿÿÿ
-hsquid:S3457s"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457s"%String contains no format specifiers.(ï«¨°
-isquid:S3457š"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-=squid:S3457š"%String contains no format specifiers.(ï«¨°

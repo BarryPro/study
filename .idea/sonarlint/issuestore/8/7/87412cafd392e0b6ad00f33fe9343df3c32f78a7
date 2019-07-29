@@ -1,20 +1,0 @@
-
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶ì¥Â
-psquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¡«
-usquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ßÙÍûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(å¹ä“ıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ß÷öıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶´›§şÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô°æ…ûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(âçñÕùÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹šŠ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ß÷öıÿÿÿÿ
-Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
-csquid:S00112T"FDefine and throw a dedicated exception instead of using a generic one.(×§œ“úÿÿÿÿ

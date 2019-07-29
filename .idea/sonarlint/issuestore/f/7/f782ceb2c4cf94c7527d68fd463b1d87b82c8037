@@ -1,21 +1,0 @@
-
-wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã¿…Ü8øı©ú¢-
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(áñÁ·
-|squid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒçŠøÿÿÿÿ8øı©ú¢-
-|squid:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ßÙÍûÿÿÿÿ8øı©ú¢-
-O
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(Û¶ˆ
-csquid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(×§œ“úÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ß÷öıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£ß÷öıÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡éŞ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô°æ…ûÿÿÿÿ
-wsquid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÊà—8øı©ú¢-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ô°æ…ûÿÿÿÿ

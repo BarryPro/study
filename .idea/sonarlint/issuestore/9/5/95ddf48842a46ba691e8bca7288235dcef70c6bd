@@ -1,14 +1,0 @@
-
-?squid:S3010"(Remove this assignment of "LOAD_FACTOR".(íñû
-osquid:S3008"XRename this field "INIT_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´İ¾’
-rsquid:S3008"VRename this field "LOAD_FACTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö×Îşúÿÿÿÿ
-vsquid:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œğ·Íüÿÿÿÿ
-gsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(Ë«İëøÿÿÿÿ
-bsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(¯à”_
-U
-squid:S106ë"9Replace this use of System.out or System.err by a logger.(ÖƒıŠıÿÿÿÿ
-U
-squid:S106ñ"9Replace this use of System.out or System.err by a logger.(ËëõÈúÿÿÿÿ
-isquid:S2259|"M"NullPointerException" will be thrown when invoking method "addEntry2Last()".(Ø’±Îúÿÿÿÿ
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶Œã
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶Œã

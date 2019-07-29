@@ -1,33 +1,0 @@
-
-usquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(£“±òıÿÿÿÿ
-usquid:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦©ËËüÿÿÿÿ
-osquid:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìºĞj
-usquid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ó±Îøÿÿÿÿ
-osquid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÛ½
-psquid:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ”ÅÊ
-usquid:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(£·ıÒøÿÿÿÿ
-usquid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Šò¯³ÿÿÿÿÿ
-usquid:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰¥†ğúÿÿÿÿ
-psquid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÎÃı
-osquid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Û†u
-N
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÅÀY
-P
-squid:S106‘"9Replace this use of System.out or System.err by a logger.(ñÜü“
-U
-squid:S106”"9Replace this use of System.out or System.err by a logger.(ÎŞ†Óÿÿÿÿÿ
-P
-squid:S106—"9Replace this use of System.out or System.err by a logger.(óÙ¨
-osquid:S1488B"YImmediately return this expression instead of assigning it to the temporary variable "A".(™Û†u
-—squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°‚æs
-nsquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“±òıÿÿÿÿ
-nsquid:S001179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦©ËËüÿÿÿÿ
-hsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìºĞj
-nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ó±Îøÿÿÿÿ
-hsquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÛ½
-isquid:S00117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ”ÅÊ
-nsquid:S00117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£·ıÒøÿÿÿÿ
-nsquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šò¯³ÿÿÿÿÿ
-nsquid:S00117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¥†ğúÿÿÿÿ
-isquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÃı
-hsquid:S00117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Û†u

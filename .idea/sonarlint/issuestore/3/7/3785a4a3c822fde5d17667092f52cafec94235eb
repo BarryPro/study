@@ -1,13 +1,0 @@
-
-Ssquid:S2696"6Make the enclosing method "static" or remove this set.(ï¡¯şùÿÿÿÿ
-isquid:S00117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–…Ë©
-gsquid:CommentedOutCodeLinep"<This block of commented-out lines of code should be removed.(Ùì öÿÿÿÿÿ
-osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µµ•¤øÿÿÿÿ
-T
-squid:S106["9Replace this use of System.out or System.err by a logger.(âõ‡¹øÿÿÿÿ
-gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(çŞã»ùÿÿÿÿ
-hsquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(½„İl8ø¨·š¥-
-4squid:S21191"Save and re-use this "Random".(¼İÅf
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ı½‘€úÿÿÿÿ
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(÷´Œ‘øÿÿÿÿ
-Msquid:S2696¨"6Make the enclosing method "static" or remove this set.(ÆğÉ

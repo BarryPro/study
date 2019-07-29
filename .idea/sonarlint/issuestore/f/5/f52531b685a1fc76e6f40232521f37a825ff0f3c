@@ -1,5 +1,0 @@
-
-ƒ"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ
-wsquid:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óñ·°8ˆş©ú¢-
-„"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
-gsquid:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Óñ·°

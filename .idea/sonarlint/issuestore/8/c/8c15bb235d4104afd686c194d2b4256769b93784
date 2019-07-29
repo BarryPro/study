@@ -1,25 +1,0 @@
-
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾»‘¬
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶÷»¢øÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ùäºö
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Åì¼áüÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ùäºö
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(µí‰¤
-?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-isquid:S2975)"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(™”” 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¶÷»¢øÿÿÿÿ
-lsquid:S1192"UDefine a constant instead of duplicating this literal "\nç§¯åˆ†æ˜¯å¤šå°‘ï¼š" 3 times.(¾»‘¬
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(¾»‘¬
->squid:S1185)"(Remove this method to simply inherit it.(™”” 
-jsquid:S1192"SDefine a constant instead of duplicating this literal "æ˜¯å¦æ˜¯ä¼šå‘˜ï¼š" 3 times.(¾»‘¬
-ksquid:S00116G"NRename this field "Vip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª‘ıœşÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ë¥øÿÿÿÿ

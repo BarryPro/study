@@ -1,14 +1,0 @@
-
-^squid:S00112?"FDefine and throw a dedicated exception instead of using a generic one.(–¼Š÷
-^squid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(«Şñù
-tsquid:S00116 "WRename this field "DEFAULT_DEEP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Î²Äıÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£Ê™Çüÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÖıÄ‘
-Csquid:S1172g",Remove this unused method parameter "index".(è€¥
-wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚Ãµˆ8ûı©ú¢-
-^squid:S00112b"FDefine and throw a dedicated exception instead of using a generic one.(«Şñù
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÙ‹ÿÿÿÿÿ
-csquid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(íîûûÿÿÿÿ

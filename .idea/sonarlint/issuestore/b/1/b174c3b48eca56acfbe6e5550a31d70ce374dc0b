@@ -1,39 +1,0 @@
-
-hsquid:CommentedOutCodeLineÎ"<This block of commented-out lines of code should be removed.(à¶ýãüÿÿÿÿ
-T
-squid:S106L"9Replace this use of System.out or System.err by a logger.(ŠÉ†ˆûÿÿÿÿ
-T
-squid:S106b"9Replace this use of System.out or System.err by a logger.(ÿïÿÿÿÿÿ
-O
-squid:S106h"9Replace this use of System.out or System.err by a logger.(ï«¨°
-T
-squid:S106w"9Replace this use of System.out or System.err by a logger.(ûùÆ‰úÿÿÿÿ
-T
-squid:S106{"9Replace this use of System.out or System.err by a logger.(ŠÉ†ˆûÿÿÿÿ
-U
-squid:S106…"9Replace this use of System.out or System.err by a logger.(°¯„ýÿÿÿÿ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï«¨°
-U
-squid:S106 "9Replace this use of System.out or System.err by a logger.(‡›Ñµûÿÿÿÿ
-P
-squid:S106£"9Replace this use of System.out or System.err by a logger.(¸²Ý
-P
-squid:S106¥"9Replace this use of System.out or System.err by a logger.(ï«¨°
-@squid:S1125P")Remove the literal "false" boolean value.(íÁÕ
-@squid:S1125d")Remove the literal "false" boolean value.(ï¡ÖÍ
-@squid:S1125y")Remove the literal "false" boolean value.(ï¡ÖÍ
-@squid:S1125ƒ")Remove the literal "false" boolean value.( ñá%
-fsquid:S00100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ƒÈÓ
-fsquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨É…Å
-esquid:S00100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶œ±
-Asquid:S3457b"%String contains no format specifiers.(ÿïÿÿÿÿÿ
-hsquid:S3457h"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-<squid:S3457h"%String contains no format specifiers.(ï«¨°
-Asquid:S3457w"%String contains no format specifiers.(ûùÆ‰úÿÿÿÿ
-isquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-=squid:S3457"%String contains no format specifiers.(ï«¨°
-nsquid:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(‡›Ñµûÿÿÿÿ
-Bsquid:S3457 "%String contains no format specifiers.(‡›Ñµûÿÿÿÿ
-isquid:S3457¥"Q%n should be used in place of \n to produce the platform-specific line separator.(ï«¨°
-=squid:S3457¥"%String contains no format specifiers.(ï«¨°
