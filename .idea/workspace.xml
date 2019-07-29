@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaf9f4b1-40cc-439d-80ad-e432e6403545" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,7 +30,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,9 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/utils/WmVpBillUtils.java" />
-        <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/web/vo/PrivacyNumberCheckBillParamVo.java" />
-        <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/service/privatenumber/PrivateNumberConfigAdapter.java" />
         <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/privacyphone/PrivacyPhoneConstant.java" />
         <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/utils/TimeUtils.java" />
         <option value="$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/utils/HiveUtils.java" />
@@ -78,6 +87,7 @@
         <option value="$PROJECT_DIR$/study_demo/src/test/java/com/barry/study/UserCaseTest.java" />
         <option value="$PROJECT_DIR$/study_source/javascript/for_closure.js" />
         <option value="$PROJECT_DIR$/study_ui/javascript/for_closure.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -119,10 +129,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="51" />
-    <option name="y" value="27" />
-    <option name="width" value="1287" />
-    <option name="height" value="780" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -140,12 +149,21 @@
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="study_entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,6 +176,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/study_tool/src/main/java/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/study_ui/my-angular/node_modules/protractor" />
@@ -339,9 +358,9 @@
       <item itemvalue="JavaScript Debug.Angular Application (my-angular)" />
       <item itemvalue="JUnit.HelloWorld.test_BigDecimal" />
       <item itemvalue="JUnit.HelloWorld.test_contain" />
+      <item itemvalue="Node.js.for_closure.js" />
       <item itemvalue="Protractor.E2E Tests (my-angular)" />
       <item itemvalue="Spring Boot.StudyServerApplication" />
-      <item itemvalue="Node.js.for_closure.js" />
     </list>
     <recent_temporary>
       <list>
@@ -400,6 +419,7 @@
       <workItem from="1564301489538" duration="565000" />
       <workItem from="1564320952070" duration="650000" />
       <workItem from="1564322905286" duration="1600000" />
+      <workItem from="1564410406829" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="搭建完项目模块架构">
       <created>1557067387151</created>
@@ -462,12 +482,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44428000" />
+    <option name="totallyTimeSpent" value="45281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49737534" visible="true" weight="0.30503598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49737534" visible="true" weight="0.34549356" />
       <window_info id="Structure" order="1" sideWeight="0.5026247" side_tool="true" weight="0.37124464" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -567,15 +587,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/constants/JobNumberName.java" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/web/controller/help/WebHelper.java" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/service/privatenumber/PrivateNumberService.java" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/privacyphone/model/CitySupplierConfigQueryVO.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-annotations/9.4.10.v20180503/jetty-annotations-9.4.10.v20180503.jar!/org/eclipse/jetty/annotations/AnnotationConfiguration.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/lombok/extern/slf4j/Slf4j.class" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/ha/simple/WmVpPrivacyNumberTimingHiveJob.java" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/web/controller/tools/PrivacyBillCheckController.java" />
-    <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/privacyphone/model/dataobject/WmThirdCitySupplierConfigDO.java" />
     <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/privacyphone/model/CitySupplierConfigUpdateVO.java" />
     <entry file="file://$PROJECT_DIR$/study_ui/src/main/java/com/sankuai/meituan/waimai/service/order/orderadmin/common/privacyphone/model/CitySupplierConfigVO.java" />
     <entry file="file://$PROJECT_DIR$/study_ui/pom.xml">
@@ -665,6 +676,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study_ui/my-angular/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
