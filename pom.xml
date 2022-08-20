@@ -13,7 +13,6 @@
         <module>study_demo</module>
         <module>study_tool</module>
         <module>study_server</module>
-        <module>study_entities</module>
         <module>study_dal</module>
         <module>study_ui</module>
         <module>study_source</module>
@@ -28,6 +27,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
                 <configuration>
                     <source>${java.version}</source>
                     <target>${java.version}</target>
