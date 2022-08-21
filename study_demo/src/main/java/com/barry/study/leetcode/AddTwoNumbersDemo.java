@@ -1,4 +1,4 @@
-package com.barry.study.practice;
+package com.barry.study.leetcode;
 
 import com.barry.study.list.ListNode;
 
