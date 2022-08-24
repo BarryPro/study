@@ -1,4 +1,4 @@
-package com.barry.hub.study_server;
+package com.barry.study;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

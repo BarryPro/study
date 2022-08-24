@@ -12,7 +12,7 @@
         <module>study_util</module>
         <module>study_demo</module>
         <module>study_tool</module>
-        <module>study_server</module>
+        <module>study_core</module>
         <module>study_dal</module>
         <module>study_ui</module>
         <module>study_source</module>

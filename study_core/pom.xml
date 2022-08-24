@@ -9,9 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.barry.hub</groupId>
-	<artifactId>study_server</artifactId>
+	<artifactId>study_core</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>study_server</name>
 	<description>study_server project for Spring Boot</description>
 
 	<properties>
@@ -28,6 +27,16 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.barry.hub</groupId>
+			<artifactId>study_tool</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.barry.hub</groupId>
+			<artifactId>study_util</artifactId>
+			<version>1.0.0-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
