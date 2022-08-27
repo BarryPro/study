@@ -15,7 +15,7 @@
         <module>study_core</module>
         <module>study_dal</module>
         <module>study_ui</module>
-        <module>study_source</module>
+        <module>study_web</module>
     </modules>
 
     <properties>

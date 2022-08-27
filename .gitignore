@@ -31,3 +31,4 @@ local_output
 *.swp
 build
 _jsp
+/arthas-output/
