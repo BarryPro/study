@@ -1,0 +1,8 @@
+###ThymeLeaf配置
+spring:
+  thymeleaf:
+    #配置模板路径，默认是templates，可以不用配置
+    prefix: classpath:/templates/
+
+server:
+  port: 8081
