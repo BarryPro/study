@@ -1,4 +1,4 @@
-package com.barry.study.nowcoder;
+package com.barry.study.nowcoder.simple;
 
 import java.util.Arrays;
 import java.util.HashMap;

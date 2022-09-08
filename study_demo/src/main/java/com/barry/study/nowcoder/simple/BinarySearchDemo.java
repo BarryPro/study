@@ -1,4 +1,4 @@
-package com.barry.study.nowcoder;
+package com.barry.study.nowcoder.simple;
 
 public class BinarySearchDemo {
     public static void main(String[] args) {

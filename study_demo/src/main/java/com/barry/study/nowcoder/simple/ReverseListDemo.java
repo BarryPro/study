@@ -1,4 +1,4 @@
-package com.barry.study.nowcoder;
+package com.barry.study.nowcoder.simple;
 
 import com.barry.study.list.ListNode;
 
