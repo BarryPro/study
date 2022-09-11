@@ -11,8 +11,8 @@ package com.barry.study.algorithm.dp;
  */
 public class DpLongestCommonSubString_M {
     public static void main(String[] args) {
-        String str1 = "1AB2345CD";
-        String str2 = "12345EF";
+        String str1 = "123455";
+        String str2 = "11111";
         System.out.println(LCS(str1, str2));
     }
 
