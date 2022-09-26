@@ -16,5 +16,4 @@ public class SinglePattern1 {
         }
         return sp;
     }
-
 }
